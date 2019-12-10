@@ -4,5 +4,5 @@ offered_by: OCW
 playlists:
   - id: UUEBb1b_L6zDS3xTUrIALZOw
     create_user_list: false
-  - id: *
+  - id: all_others
     create_user_list: true

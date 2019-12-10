@@ -4,8 +4,10 @@ channel_id: UCBpxspUNl1Th33XbugiHJzw
 playlists:
   - id: UUBpxspUNl1Th33XbugiHJzw
     create_user_list: false
-  - id: *
+  - id: all_others
     create_user_list: true
+  - id: PLcwbNON2hqP5TFbkw0igt6Wz79WTaeFGi
+    ignore: true
     
     
     
