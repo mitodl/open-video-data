@@ -2,8 +2,9 @@
 channel_id: UCBpxspUNl1Th33XbugiHJzw
 #offered_by: CSAIL
 playlists:
-  # - id: UUBpxspUNl1Th33XbugiHJzw
-  #   create_user_list: false
+  - id: UUBpxspUNl1Th33XbugiHJzw
+    create_user_list: false
+    ignore: true
   - id: wildcard
     create_user_list: true
   - id: PLcwbNON2hqP5TFbkw0igt6Wz79WTaeFGi
