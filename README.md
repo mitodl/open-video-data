@@ -34,7 +34,6 @@ offered_by: OCW
 playlists: 
   - id: all
     create_user_list: true
-    playlists:
   - id: PLAYLIST_ID1
     create_user_list: false  
   - id: PLAYLIST_ID2
