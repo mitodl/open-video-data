@@ -12,7 +12,7 @@ In order to add a new YouTube channel, create a file with the extention `.yaml` 
 ---
 channel_id: CHANNEL_ID
 offered_by: OCW  # optional, defaults to none
-playlists:  # may include one or more playlists
+playlists:  # must include one or more playlists
   - id: PLAYLIST_ID1
     create_user_list: false  
   - id: PLAYLIST_ID2
