@@ -1,0 +1,22 @@
+---
+- channel_id: UCBpxspUNl1Th33XbugiHJzw
+  offered_by: CSAIL
+  playlists:
+    - id: UUBpxspUNl1Th33XbugiHJzw
+    - id: PLcwbNON2hqP5TFbkw0igt6Wz79WTaeFGi
+    - id: PLcwbNON2hqP6fVJP0pyppMyN5MXUj7fOQ
+    - id: PLcwbNON2hqP5vpbooDL2Bw5fLwhjsbY-S
+    - id: PLcwbNON2hqP4_mGgPvekcSndFezpDdWcY
+    - id: PLcwbNON2hqP53MXSX0908a4FmKbmPJe0K
+- channel_id: UCTBMWu8yshnAmpzR3MoJFtw
+  offered_by: MITx
+  playlists:
+    - id: UUTBMWu8yshnAmpzR3MoJFtw
+- channel_id: UCPonD0FH2WNnEXyTsYiLWMw
+  offered_by: Bootcamps
+  playlists:
+    - id: PLQykyC1zr8f_ZcAZoTz-rruBBOP4Fmii5
+    - id: PLQykyC1zr8f-z4MUzQQtWSg2-QIF0F2cz
+    - id: PLQykyC1zr8f_0n3SL9DIhwws8QcJpp7hO
+- channel_id: UCEBb1b_L6zDS3xTUrIALZOw
+  offered_by: OCW
