@@ -1,8 +1,4 @@
 ---
-- channel_id: FakeTestWhathappens
-  offered_by: csail
-  playlists:
-    - id: all
 - channel_id: UCEBb1b_L6zDS3xTUrIALZOw
   offered_by: ocw
   playlists:
