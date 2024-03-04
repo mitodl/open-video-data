@@ -5,5 +5,25 @@
     - id: all
     - id: PLUl4u3cNGP61XU3CuDCsVcOChZybTdruR
       ignore: true
+      # OCW Scholar promotion
     - id: PLUl4u3cNGP63YwKIMA9K08FFvdeBEl6Lo
       ignore: true
+      # Chalk Radio Podcast
+    - id: PLUl4u3cNGP62XZz7I7TSAYMccjHppZ4Ki
+      ignore: true
+      # 5 Million Subscribers: An OCW odyssey
+    - id: PLUl4u3cNGP611V2SjOwuGMGTAueWf37lE
+      ignore: true
+      # 2 Million Subscribers! THANK YOU!!!
+    - id: PLUl4u3cNGP63_l7MyZXbUmmmd18JTfe4O
+      ignore: true
+      # MITx on edX course trailers
+    - id: PLUl4u3cNGP62AgynOGHPVHTgncwak-EuP
+      ignore: true
+      # MIT STEM Concept Videos
+    - id: PL9D1D16562A5A2A1D
+      ignore: true
+      # My Top Videos
+    - id: PL279CA243FCDCF6C0
+      ignore: true
+      # MIT OpenCourseWare Milestone Celebration
