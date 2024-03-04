@@ -1,5 +1,6 @@
 ---
 - channel_id: UCEBb1b_L6zDS3xTUrIALZOw
+  # MIT OCW
   offered_by: ocw
   playlists:
     - id: all
@@ -27,3 +28,8 @@
     - id: PL279CA243FCDCF6C0
       ignore: true
       # MIT OpenCourseWare Milestone Celebration
+- channel_id: UCw7VmdhWf3bblzjaEOA4Dng
+  # xTalks
+  offered_by: mitx
+  playlists:
+    - id: all
