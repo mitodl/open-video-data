@@ -43,5 +43,7 @@ playlists:
 
 In the above example, videos from all playlists for the channel that are not specifically included in the config file are added to the course catalog and user lists are created for those playlists. The videos for `PLAYLIST_ID1` are added to the course catalog but no user list is created.  `PLAYLIST_ID2` is ignored completely.
 
+Optionally, `create_videos: false` means that videos should only be created if there is an existing match to a ContentFile object. This option is used for OCW video etl.  `create_videos: true` can be used to overwrite the channel setting and create specific playlists from purely youtube data for a channel set to  `create_videos: false` 
+
 ### Uploads playlist
 Every youtube channel has an "uploads" playlist. To get the uploads playlist id go to the "Videos" tab for the channel and click "Play All". The upload playlist id will be the `list=<playlist id>` parameter in the URL
